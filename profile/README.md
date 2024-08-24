@@ -1,4 +1,4 @@
-<a href="https://discord.gg/SSdCQraxMc">
+<a href="https://discord.gg/zCyg7UWW2t">
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1f22aef3b6921d63d_636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width="30rem"/>
    <span>--> notre discord</span>
 </a>
