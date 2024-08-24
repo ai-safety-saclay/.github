@@ -1,9 +1,9 @@
 
 <button>
-  <span>Notre discord:</span>
 <a href="https://discord.gg/SSdCQraxMc">
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1f22aef3b6921d63d_636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width="30rem"/>
 </a>
+ <span>Notre discord</span>
 </button>
 
 ![image](https://raw.githubusercontent.com/ai-safety-saclay/.github/95e297910bae1a8f47d78e6e22944702693d67f6/profile/piaf.svg)
