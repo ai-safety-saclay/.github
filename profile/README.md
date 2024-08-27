@@ -35,7 +35,7 @@ Notre groupe a deux activités principales :
 
 Jusqu'à il y a quelques années, l'IA était un outil qui nous assistait dans nos prises de décision. Ce n'est plus seulement le cas, et la tendance est très claire : dans le futur, les IA prendront énormément de décisions par elles-mêmes. Des IA feront toujours plus de recommandations sur les réseaux sociaux, guideront des juristes dans leurs décisions, participeront au processus de recrutement, organiseront nos agendas et enverront nos mails, seront responsables d'infrastructures de grande échelle, et seront prédominantes sur le web.  
 
-Notre mission n'est pas de vous dire si c'est une bonne ou une mauvaise chose. Ce qui est sûr, c'est que que les solutions techniques pour contrôler les IA et faire en sorte qu'elles respectent nos valeurs morales ne sont pas à la hauteur. Nous souhaitons que les étudiants aient une meilleure vision des challenges techniques et sociaux autour de l'IA : la **robustesse**, l'**alignement**, la **surveillance**.
+Notre mission n'est pas de vous dire si c'est une bonne ou une mauvaise chose. Ce qui est sûr, c'est que que les solutions techniques pour contrôler les IA et faire en sorte qu'elles respectent nos valeurs morales ne sont pas à la hauteur. Nous souhaitons que les étudiants aient une meilleure vision des challenges techniques et sociaux autour de l'IA : la **robustesse**, l'**alignement**, le **contrôle**.
 
 Nous ne sommes pas militants pour une cause particulière. Notre but, c'est que les étudiants s'emparent de ces problèmes sociétaux et techniques, qu'ils participent au développement du domaine de la sûreté de l'IA et qu'ils puissent se faire leur propre idée des risques potentiels.
 
