@@ -6,6 +6,8 @@
    <span>--> notre discord</span>
 </a>
 
+<hr>
+
 Notre projet, c'est le P.I.A.F.
 
 P.I.A.F est un groupe de travail autour de la sécurité et la fiabilité des systèmes d'intelligence artificielle. Il est entièrement géré par des étudiants de [Paris-Saclay](https://fr.wikipedia.org/wiki/Paris-Saclay).
