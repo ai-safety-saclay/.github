@@ -21,7 +21,7 @@ Notre groupe a deux activités principales :
 
 ## Sensibiliser et changer le discours autour de la sûreté de l'IA
 
-- Participer à la création de conférences (voir https://teletalks.fr/projects)
+- Participer à la création de conférences (voir https://teletalks.fr/projects#asimov)
 - Motiver les étudiants à intégrer la sûreté de l'IA dans leur carrière
 - Avoir autant que possible un impact médiatique
 
