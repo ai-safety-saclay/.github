@@ -6,6 +6,10 @@
    <span>--> notre discord</span>
 </a>
 
+<a href="https://piaf-saclay.org">
+   <span>--> notre site web</span>
+</a>
+
 <hr>
 
 Notre projet, c'est le P.I.A.F.
@@ -21,11 +25,11 @@ Notre groupe a deux activités principales :
 
 ## Sensibiliser et changer le discours autour de la sûreté de l'IA
 
-- Participer à la création de conférences (voir https://teletalks.fr/projects#asimov)
+- Participer à la création de [conférences](https://piaf-saclay.org/asimov.html)
 - Motiver les étudiants à intégrer la sûreté de l'IA dans leur carrière
 - Avoir autant que possible un impact médiatique
 
-## Démocratiser le domaine de recherche de la sûreté de l'IA 
+## Démocratiser le domaine de recherche de la sûreté de l'IA
 
 - Proposer des groupes de lecture, des hackathons
 - Lancer des projets sur la sécurité de l'IA au sein des écoles
@@ -35,7 +39,7 @@ Notre groupe a deux activités principales :
 
 # Raison d'être
 
-Jusqu'à il y a quelques années, l'IA était un outil qui nous assistait dans nos prises de décision. Ce n'est plus seulement le cas, et la tendance est très claire : dans le futur, les IA prendront énormément de décisions par elles-mêmes. Des IA feront toujours plus de recommandations sur les réseaux sociaux, guideront des juristes dans leurs décisions, participeront au processus de recrutement, organiseront nos agendas et enverront nos mails, seront responsables d'infrastructures de grande échelle, et seront prédominantes sur le web.  
+Jusqu'à il y a quelques années, l'IA était un outil qui nous assistait dans nos prises de décision. Ce n'est plus seulement le cas, et la tendance est très claire : dans le futur, les IA prendront énormément de décisions par elles-mêmes. Des IA feront toujours plus de recommandations sur les réseaux sociaux, guideront des juristes dans leurs décisions, participeront au processus de recrutement, organiseront nos agendas et enverront nos mails, seront responsables d'infrastructures de grande échelle, et seront prédominantes sur le web.
 
 Notre mission n'est pas de vous dire si c'est une bonne ou une mauvaise chose. Ce qui est sûr, c'est que que les solutions techniques pour contrôler les IA et faire en sorte qu'elles respectent nos valeurs morales ne sont pas à la hauteur. Nous souhaitons que les étudiants aient une meilleure vision des challenges techniques et sociaux autour de l'IA : la **robustesse**, l'**alignement**, le **contrôle**.
 
@@ -49,10 +53,4 @@ Vous pouvez d'abord partager l'intiative, et en parler à tous les étudiants du
 
 Vous pouvez venir discuter avec nous, pour approfondir le sujet et participer à nos groupes de lecture.
 
-Enfin, vous pouvez nous aider à organiser nos nombreux projets.
-
-# Nous rejoindre
-
-Si vous êtes étudiant sur la plateau de Saclay (en particulier à Télécom Paris, Polytechnique, Centrale Supélec, l'ENS Paris Saclay ou l'ENSTA) et que vous voulez découvrir ce domaine, vous êtes invités à nous rejoindre.
-
-Nous communiquons principalement sur discord: <https://discord.gg/SSdCQraxMc>
+Rendez-vous sur la page [contact](https://piaf-saclay.org/contact.html).
